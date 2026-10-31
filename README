@@ -1,1 +1,20 @@
-addons for meimei mod menu 
+# addons for meimei mod menu 
+
+## If you want to download these addons and import them in meimei OS what you need to do is:
+
+1. Go to the release and chose your addon
+2. Rightclick on the zip of the release
+3. Chose "copy link address"
+
+4. go in meimei OS in Orion Drift
+5. click on Terminal (Term)
+6. Type in: "addon add" and then the link that you just copied
+
+### A example of what the command in the terminal should look like is:
+"addon add https://github.com/Plushivr/meimei-addons/releases/download/v3/specv2.zip"
+
+## Uninstall:
+Go to the terminal and type in "addon remove" and  then the name of the addon
+
+### A example of what the command in the terminal should look like is:
+"addon remove specv2"
